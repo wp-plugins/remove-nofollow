@@ -3,7 +3,7 @@ Contributors: rlecour
 Donate link: http://www.richardsramblings.com/donate/
 Tags: comments, posts, nofollow, links, seo
 Requires at least: 2.3.1
-Tested up to: 2.6.2
+Tested up to: 2.8.4
 Stable tag: 1.00
 
 The Remove-Nofollow plugin removes the "nofollow" attribute.
